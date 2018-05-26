@@ -14,3 +14,10 @@ These are numeric solutions when it was too complicated or long winded to solve 
 ...
 r + b = N: 15 + 6 = 21, P = 1 / 2.0
 ```
+
+## Problem 7: Curing the gambler
+Probability that gambler will be behind after 36 rolls in about 3/4
+```
+>>> 2*(37/38)**35*(36.5/38)
+0.7553943362209891
+```
